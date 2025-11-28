@@ -37,14 +37,17 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tkinter-youtube-downloader.git
+   git clone https://github.com/Kanvad/tkinter-youtube-downloader.git
    cd tkinter-youtube-downloader
    ```
 
 2. **Create a virtual environment (Recommended)**
    ```bash
    python -m venv .venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+   # On Linux/MacOS:
+   source .venv/bin/activate  
+   # On Windows:
+   .venv\Scripts\activate
    ```
 
 3. **Install dependencies**
@@ -76,10 +79,6 @@
 - **GUI Framework**: Tkinter (ttk)
 - **Core Engine**: [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 - **Image Processing**: Pillow (PIL)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📄 License
 

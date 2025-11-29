@@ -21,7 +21,6 @@
 
 - **📺 Video & Audio**: Download videos in high-quality **MP4** or extract audio as **MP3**.
 - **🖼️ Smart Preview**: Automatically fetches and displays video thumbnails before downloading.
-- **🚀 Real-time Progress**: Track download speed, size, and ETA with a clean progress indicator.
 - **🎨 Modern UI**: A polished, user-friendly interface with gradient titles and intuitive controls.
 - **⚡ Threaded Core**: Keeps the interface responsive even during heavy downloads.
 - **📋 Clipboard Support**: Paste URLs directly from your clipboard with a single click.
